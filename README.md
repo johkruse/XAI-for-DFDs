@@ -24,7 +24,3 @@ The `scripts` folder contains scripts to create the paper results and `notebooks
 
 We use the input data (features) and output data (targets) from [this zenodo repository](https://zenodo.org/record/5118352). To run the code, copy `input_actual.h5`,`input_forecast.h5` and `outputs.h5` into a folder `./data/CE/` in the repository folder. 
 
-## Results
-
-The output file of the scripts are available [on zenodo]() for comparison. 
-
