@@ -1,4 +1,7 @@
 # Explainable Machine Learning for analysing deterministic grid frequency deviations
+
+[![DOI](https://zenodo.org/badge/404294676.svg)](https://zenodo.org/badge/latestdoi/404294676)
+
 Code accompanying the mansucript "Exploring deterministic frequency deviations with explainable AI".
 Preprint: <https://arxiv.org/abs/2106.09538>
 
